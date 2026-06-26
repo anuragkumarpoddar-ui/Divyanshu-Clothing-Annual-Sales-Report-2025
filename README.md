@@ -1,4 +1,4 @@
-# 👕 Divyanshu Clothing Annual Sales Report 2025
+#                Divyanshu Clothing Annual Sales Report 2025
 ### 📊 End-to-End Excel Data Analysis & Interactive Dashboard Project
 
 <p align="center">
